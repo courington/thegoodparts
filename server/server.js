@@ -17,10 +17,6 @@ app.get('/', function(req, res){
   res.send('hello world');
 });
 
-// var server = app.listen(4567, function() {
-//     console.log('Listening on port %d', server.address().port);
-// });
-
 var port = process.env.PORT || 8001;
 var host = process.env.HOST || '0.0.0.0';
 console.log('Starting dev REST server on http://%s:%d/', host, port);
