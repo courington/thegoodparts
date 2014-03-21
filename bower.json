@@ -18,6 +18,7 @@
     "jquery": "~2.1.0",
     "backbone": "~1.1.2",
     "lodash": "~2.4.1",
-    "layoutmanager": "~0.9.5"
+    "layoutmanager": "~0.9.5",
+    "requirejs": "~2.1.11"
   }
 }
