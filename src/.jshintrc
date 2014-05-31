@@ -1,7 +1,9 @@
 {
+  "browser": true,
   "curly": true,
   "eqeqeq": true,
   "immed": true,
+  "jquery": true,
   "latedef": "nofunc",
   "newcap": true,
   "noarg": true,
@@ -14,6 +16,8 @@
   "devel": true,
   "globals": {
     "define": true,
-    "require": true
+    "require": true,
+    "document": true,
+    "L": true
   }
 }

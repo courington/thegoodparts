@@ -1,7 +1,9 @@
 {
+  "browser": true,
   "curly": true,
   "eqeqeq": true,
   "immed": true,
+  "jquery": true,
   "latedef": "nofunc",
   "newcap": true,
   "noarg": true,

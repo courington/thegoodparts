@@ -14,7 +14,7 @@ app.configure(function() {
 });
 
 app.get('/', function(req, res){
-  res.send('hello world');
+  res.send('server is on');
 });
 
 var port = process.env.PORT || 8001;
